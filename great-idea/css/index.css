@@ -64,3 +64,148 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
+.container{
+	margin: 4%;
+}
+.topPage{
+
+	display: flex;
+	width: 100%;
+}
+nav {
+	display: flex;
+	width: 100%;
+}
+nav a {
+	padding: 0% 4%;
+	display: flex;
+}
+nav #logo{
+	display: flex;
+}
+header{
+	padding-top: 2%;	
+}
+
+h1 {
+	font-size:600%;
+	display: flex;
+	width: 70%;
+	text-align:center;
+	margin-left: 10%;
+	
+}
+.headBut{
+	display: flex;
+	text-align:center;
+	width:35%;
+	margin-left: 10%;
+}
+
+#button{
+	display: flex;
+	font-size: 110%;
+	width: 100%;
+}
+
+ header #snippet{
+	display: flex;
+	margin-left: 80px;
+	margin-bottom: 10%;
+	margin-top: 4%;
+}
+
+ #snippet img{
+	width:120%;
+}
+
+hr {
+	color:black;
+}
+
+.section1{
+	display: flex;
+	background-color: red;
+	max-width: 100%;
+}
+
+.section1 h2{
+	display: flex;
+	
+}
+
+.section1 p{
+	display: flex;
+
+} 
+.allFeatures{
+	display: flex;
+	
+	max-width: 40%;
+}
+
+.allAbout{
+	display: flex;
+	
+	max-width: 40%;
+}
+#accent{
+	display: flex;
+	width:100%;
+}
+.middle-img{
+	display: flex;
+	width: 100%;
+}
+
+.allServices{
+	display: flex;
+	width:33%;
+}
+.allProducts{
+	display: flex;
+	width:33%;
+}
+.allVisions{
+	display: flex;
+	width:33%;
+}
+
+.section2 .services{
+	display: flex;
+}
+
+
+.section2 .products{
+	display: flex;
+
+}
+
+.section2 .vision{
+	display: flex;
+
+}
+.contacts{
+	display: flex;
+	width:5%;
+	
+}
+
+.contacts h2{
+	display: flex;
+	
+
+}
+
+.contacts p{
+	display: flex;
+	width:202%;
+}
+
+footer{
+	display: flex;
+	margin-left: 40%;
+	margin-bottom: 5%;
+	
+
+}
